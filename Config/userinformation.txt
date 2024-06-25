@@ -1,4 +1,4 @@
-https://github.com/rafaeltas/rafaeltas.github.io/blob/main/Resources/imgs/rafaeltas_photo.jpg
+https://raw.githubusercontent.com/rafaeltas/rafaeltas.github.io/main/Resources/imgs/rafaeltas_photo.jpg
 Rafael Tas
 Your Role @ Company
 Porto Alegre/RS - Brasil
